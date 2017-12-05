@@ -1,0 +1,69 @@
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  2 DEC 2017 17:51
+entering extended mode
+**./competencesBank.tex
+(competencesBank.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("D:\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("D:\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("D:\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (competencesBank.aux)
+\openout1 = `competencesBank.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+Missing character: There is no è in font cmbx12!
+Missing character: There is no é in font cmbx12!
+Missing character: There is no é in font cmbx12!
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
+ ("D:\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+ [1
+
+]
+(competencesBank.aux) ) 
+Here is how much of TeX's memory you used:
+ 244 strings out of 428408
+ 2619 string characters out of 3163213
+ 53104 words of memory out of 3000000
+ 3719 multiletter control sequences out of 15000+200000
+ 5407 words of font info for 20 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 21i,4n,19p,150b,145s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on competencesBank.pdf (1 page).

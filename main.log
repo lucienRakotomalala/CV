@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  1 DEC 2017 18:09
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  3 DEC 2017 16:50
 entering extended mode
 **./main.tex
 (main.tex
@@ -919,10 +919,7 @@ LaTeX Info: Redefining \nameref on input line 23.
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
+\pagenumberwidth=\skip80
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FontAwesome' (encoding: EU1).
 (microtype)             For optimal results, create family-specific settings.
@@ -1405,11 +1402,12 @@ Package microtype Info: Character `\textgreater ' is missing
 (microtype)             in font `\EU1/FontAwesome(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 25.
-("D:\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+ ("D:\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 25.
- ("D:\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+
+("D:\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 25.
@@ -1419,8 +1417,7 @@ File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMX+lmex on input line 25.
 
-
-("D:\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+ ("D:\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1619,17 +1616,14 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 55.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 25164 strings out of 428408
- 445036 string characters out of 3163213
- 551327 words of memory out of 3000000
- 28367 multiletter control sequences out of 15000+200000
+ 25162 strings out of 428408
+ 444990 string characters out of 3163213
+ 551286 words of memory out of 3000000
+ 28365 multiletter control sequences out of 15000+200000
  16242 words of font info for 46 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 57i,11n,63p,10388b,334s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,12n,63p,10388b,334s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on main.pdf (2 pages).
