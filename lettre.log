@@ -1,0 +1,357 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.21)  9 DEC 2017 12:40
+entering extended mode
+**./lettre.tex
+(lettre.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("D:\MiKTeX 2.9\tex\latex\lettre\lettre.cls"
+("D:\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count79
+)
+("D:\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("D:\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("D:\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("D:\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("D:\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count80
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+Document Class: lettre 2017/08/03 v3.000
+Copyleft Denis Megevand - Observatoire de Geneve
+\lettre@x@mm=\skip41
+\lettre@y@mm=\skip42
+\c@infos=\count81
+
+Class lettre Message: Mode `origdate'.
+
+("D:\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\auxcount=\count82
+\c@labelstart=\count83
+\c@lettre=\count84
+\c@telefax=\count85
+\emailcount=\count86
+\faxpage=\count87
+\sigflag=\count88
+\signum=\count89
+\letterwidth=\dimen104
+\openingspace=\dimen105
+\openingindent=\dimen106
+\lettermargin=\dimen107
+\listmargin=\dimen108
+\sigspace=\dimen109
+\ssigindent=\dimen110
+\ssigwidth=\dimen111
+\msigwidth=\dimen112
+\fromaddress@let@width=\dimen113
+\fromlieu@let@width=\dimen114
+\toaddress@let@width=\dimen115
+\fromaddress@fax@width=\dimen116
+\faxstring@width=\dimen117
+\faxbox@width=\dimen118
+\toaddress@fax@width=\dimen119
+\fromname@fax@width=\dimen120
+\lettre@vref@width=\skip43
+\lettre@nref@width=\skip44
+\@tensionaux=\write3
+\@dateaux=\write4
+\@etiqaux=\write5
+\@faxaux=\write6
+
+
+Class lettre Message: Chargement du fichier de definition de langue `lettre-fre
+nch.ldf'.
+
+("D:\MiKTeX 2.9\tex\latex\lettre\lettre-french.ldf"
+File: lettre-french.ldf 2015/11/18
+))
+("D:\MiKTeX 2.9\tex\latex\psnfss\palatino.sty"
+Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("D:\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+
+("D:\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("D:\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+("D:\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+("D:\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2016/04/23 3.9r The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("D:\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("D:\MiKTeX 2.9\tex\generic\babel-french\frenchb.ldf"
+Language: frenchb 2017/04/30 v3.3a French support from the babel system
+
+("D:\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count90
+\U@D=\dimen121
+)
+\l@acadian = a dialect from \language\l@french 
+\l@canadien = a dialect from \language\l@french 
+\FB@nonchar=\count91
+\FBcolonsp=\toks17
+\FBthinsp=\toks18
+Package babel Info: Making : an active character on input line 362.
+Package babel Info: Making ; an active character on input line 363.
+Package babel Info: Making ! an active character on input line 364.
+Package babel Info: Making ? an active character on input line 365.
+\FBguillsp=\toks19
+\FBguill@level=\count92
+\FB@everypar=\toks20
+\FB@Mht=\dimen122
+\mc@charclass=\count93
+\mc@charfam=\count94
+\mc@charslot=\count95
+\std@mcc=\count96
+\dec@mcc=\count97
+\listindentFB=\skip45
+\descindentFB=\skip46
+\labelwidthFB=\skip47
+\leftmarginFB=\skip48
+\parindentFFN=\dimen123
+\FBfnindent=\skip49
+))
+("D:\MiKTeX 2.9\tex\latex\carlisle\scalefnt.sty") (lettre.aux)
+\openout1 = `lettre.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 7.
+
+("D:\MiKTeX 2.9\tex\latex\psnfss\t1ppl.fd"
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+("D:\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count98
+\scratchdimen=\dimen124
+\scratchbox=\box26
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen125
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks22
+) ("D:\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("D:\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("D:\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("D:\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("D:\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) (lettre.tns) (lettre.odt)
+\openout3 = `lettre.tns'.
+
+\openout4 = `lettre.odt'.
+
+
+
+Class lettre Message: Scrutation des paquetages de gestion de langue.
+
+
+Class lettre Message: Le paquetage `babel' est charg'e.
+
+
+Class lettre Message: Langage par defaut: francais.
+
+LaTeX Info: Redefining \degres on input line 7.
+LaTeX Info: Redefining \dots on input line 7.
+LaTeX Info: Redefining \up on input line 7.
+
+Class lettre Message: Lettre 1.
+
+("D:\MiKTeX 2.9\tex\latex\lettre\lettre-default.cfg"
+
+Class lettre Message: Adresse precisee.
+
+
+Class lettre Message: Numero de telephone precise.
+
+
+Class lettre Message: Numero de fax precise.
+
+
+Class lettre Message: Lieu precise.
+
+)
+
+Class lettre Message: Adresse precisee.
+
+
+Class lettre Message: Numero de telephone precise.
+
+
+Class lettre Message: Numero d'E-Mail precise.
+
+
+Class lettre Message: Numero de fax supprime.
+
+
+Class lettre Message: Champ d'objet defini.
+
+
+Class lettre Message: Lieu precise.
+
+
+Class lettre Message: Date precisee.
+
+
+Class lettre Message: Date originale lue dans lettre.odt.
+
+
+Class lettre Message: `le 9 d\'ecembre 2017' ecrit dans lettre.odt.
+
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 72.
+("D:\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 72.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 72.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 72.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 72.
+
+
+Class lettre Message: Signature manquante.
+
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 100.
+
+("D:\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
+File: omsppl.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 100.
+
+
+Class lettre Message: Annexes declarees.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+
+ []
+
+
+Class lettre Message: Longueur de la derniere page : 691.34502pt>= 250pt.
+
+[1
+
+
+{C:/Users/Lucien/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+
+Class lettre Message: Nombre de lettres :1.
+
+
+Class lettre Message: Nombre de telefax :0.
+
+(lettre.aux) ) 
+Here is how much of TeX's memory you used:
+ 3478 strings out of 493334
+ 46503 string characters out of 3145269
+ 120511 words of memory out of 3000000
+ 6959 multiletter control sequences out of 15000+200000
+ 10824 words of font info for 30 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,7n,30p,820b,538s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<D:/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MiKTeX 2.9/fonts/type1/urw/courier/u
+crr8a.pfb><D:/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><D:/MiKTeX 2.9/fon
+ts/type1/urw/palatino/uplr8a.pfb>
+Output written on lettre.pdf (1 page, 51613 bytes).
+PDF statistics:
+ 23 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
