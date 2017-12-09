@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.21)  9 DEC 2017 12:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.21)  9 DEC 2017 14:26
 entering extended mode
 **./lettre.tex
 (lettre.tex
@@ -303,28 +303,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 72.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 72.
-
-
-Class lettre Message: Signature manquante.
-
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 100.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 73.
 
 ("D:\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 100.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 73.
 
 
-Class lettre Message: Annexes declarees.
+Class lettre Message: Signature manquante.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
-
- []
-
-
-Class lettre Message: Longueur de la derniere page : 691.34502pt>= 250pt.
+Class lettre Message: Longueur de la derniere page : 419.04019pt>= 250pt.
 
 [1
 
@@ -338,10 +329,10 @@ Class lettre Message: Nombre de telefax :0.
 
 (lettre.aux) ) 
 Here is how much of TeX's memory you used:
- 3478 strings out of 493334
- 46503 string characters out of 3145269
- 120511 words of memory out of 3000000
- 6959 multiletter control sequences out of 15000+200000
+ 3472 strings out of 493334
+ 46428 string characters out of 3145269
+ 118495 words of memory out of 3000000
+ 6953 multiletter control sequences out of 15000+200000
  10824 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,7n,30p,820b,538s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -349,7 +340,7 @@ Here is how much of TeX's memory you used:
 ts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MiKTeX 2.9/fonts/type1/urw/courier/u
 crr8a.pfb><D:/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><D:/MiKTeX 2.9/fon
 ts/type1/urw/palatino/uplr8a.pfb>
-Output written on lettre.pdf (1 page, 51613 bytes).
+Output written on lettre.pdf (1 page, 49878 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
