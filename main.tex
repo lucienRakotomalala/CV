@@ -4,8 +4,9 @@
 
 \documentclass[11pt,a4paper]{moderncv}
 \moderncvtheme[green]{banking}                
+%\moderncvstyle{classic}
 \usepackage[utf8]{inputenc}
-\usepackage{fontspec,fontawesome}
+\usepackage{fontawesome}
 
 \usepackage[top=1.1cm, bottom=1.1cm, left=2cm, right=2cm]{geometry}
 % Largeur de la colonne pour les dates
@@ -14,41 +15,60 @@
 \firstname{Lucien}
 \familyname{Rakotomalala}
 
-\title{\'Eudiant en Master Automatique à Toulouse}              
-\address{98 Chemin de Lanusse}{31200}    
+%\title{Doctorant ONERA}
+\address{38 Rue des Filatiers}{31000}    
 \email{lulu.rakoto@gmail.com}      
-\mobile{06 33 85 15 32} 
-\extrainfo{22 ans -- \faAutomobile Permis B }
+\mobile{06 33 85 15 32}
+\extrainfo{\faBirthdayCake\ 29 Juin 1995}
 %  \photo[64pt]
+
 \begin{document}
 \maketitle
 
 \section{Formation Universitaire et Diplome}
-\cventry{2016 - aujourd'hui}{Etudiant en Master Ingénérie des systèmes Temps réel (ISTR)}{Université Paul Sabatier}{Toulouse}{\textit{$1^{er}$ et $2^{nd}$ années}}{}
+\cventry{2018 - aujourd'hui}{Doctorant}{ONERA - ISAE}{Toulouse}{Preuve Formelle du calcul réseau}{}
+\cventry{2016 - 2018}{Master Ingénérie des systèmes Temps réel (ISTR)}{Université Paul Sabatier}{Toulouse}{}{}
 \cventry{2015 -2016}{License Mention Electronique Electrotechnique et Automatique (EEA)}{Université Paul Sabatier}{Toulouse III}{\textit{}}{}
 \cventry{2013 -2015}{DUT Génie \'Electrique et Informatique Industrielle}{IUT 'A' Ponsan}{Toulouse III}{\textit{Spécialité Automatique}}{}
 \cventry{2012 - 2013}{Bac général Scientifique}{Lycée Bellevue}{Albi}{\textit{Spécialité Mathématiques}}{}
 
-\section{Compétences en Automatique et systèmes à temps réel}
-\cvitem{Systèmes linéaires continus}{Analyse de systèmes linéaires dynamiques représentés par fonction différentielle ou fonction de transfert.\newline Réalisation en modèle d'état pour une commande par retour d'état. \newline 
-Applications de méthodes de discrétisation de systèmes ou de commande pour une implémentation sur carte programmable.}
-\cvitem{Systèmes à événements discrets}{Modélisation, étude et commande de SED en réseau de PETRI, automates et Machine à états.}
-\cvitem{UML}{Conception de systèmes en orienté objet et mise en oeuvre sur différentes applications}
+% \section{Formalisation avec un assistant de preuve}
+% \cvitem{Coq}{Réécriture d'une base de la théorie du calcul dans un formalisme compris par Coq}
+
+% \section{Compétences en Automatique et systèmes à temps réel}
+% \cvitem{Systèmes linéaires continus}{Analyse de systèmes linéaires dynamiques représentés par fonction différentielle ou fonction de transfert.\newline Réalisation en modèle d'état pour une commande par retour d'état. \newline 
+% Applications de méthodes de discrétisation de systèmes ou de commande pour une implémentation sur carte programmable.}
+% \cvitem{Systèmes à événements discrets}{Modélisation, étude et commande de SED en réseau de PETRI, automates et Machine à états.}
 
 \section{Compétences informatique}
-\cvitemwithcomment{MATLAB}{\'Etude de systèmes dynamiques, interface graphique GUI, SIMULINK}{Avancé}
-\cvitemwithcomment{Mise en œuvre de commande de SED}{Langage C, VHDL, C++.}{Avancé}
-\cvdoubleitem{\'Editeur de texte}{Microsoft Office et \LaTeX}{OS}{\faLinux, \faWindows}
-\cvitemwithcomment{Git}{Suivi de projet avec GitHub via l'interface graphique GitKraken}{Débutant}
+\cvitemwithcomment{MATLAB}{\'Etude de systèmes dynamiques, interface
+  graphique GUI, SIMULINK}{Avancé}
+
+\cvitemwithcomment{Coq}{Formalisation de théorie mathématiques,
+  automatisation de preuve}{}  
+
+\cvdoubleitem{Langage de programmation}{Java, C, C++}{}{}
+
+\cvdoubleitem{\'Editeur de texte}{Emacs et
+  \LaTeX}{OS}{\faLinux, \faWindows}
+
 \section{Langues}
-\cvdoubleitem{Anglais}{lu et écrit}{Occitan}{Bilingue pendant l'enfance}
+\cvitem{Anglais}{lu et écrit}
+
+\nocite{*}
+\bibliographystyle{abbrv}
+\bibliography{bibliography}
 
 \section{Expérience professionnelle et Stage}
 \cventry{2014}{Stage DUT}{NEXTER Electronics}{Mission : maintenance de carte électronique}{\textit{3 mois poursuivie d'un mois en intérim}}{}
+\cventry{2018}{Stage Fin d'étude}{\textsc{Onera} Toulouse}{Sujet : Conception Conjointe de loi de commande et délais réseau}{\textit{6 mois}}{}
 
 \section{Projets Universitaire}
 \subsection{Optimisation de paramètres}
-\cvlistitem{Projet MASTER 1 TER : Création d'un modèle autour d'un procédé de bacs d'eau pour une optimisation de paramètres}
+\cvlistitem{Projet \textsc{Master} : Création d'un modèle autour d'un procédé de bacs d'eau pour une optimisation de paramètres}
+\subsection{Labyrinthe Dynamique}
+\cvlistitem{Projet \textsc{Master} : Modélisation d'un labyrinthe dynamique 2D sous forme de graphe et analyse}
+
 \section{Centre d'intérêts}
 \subsection{Musique}
 \cvitemwithcomment{Trompette}{Dans un groupe de +20 musiciens}{Professeur particulier de musique}
